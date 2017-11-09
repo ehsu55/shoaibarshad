@@ -1253,3 +1253,4 @@ public class GenCertificate extends javax.swing.JFrame {
     String filepathstr;
     int resultValue;
 }
+}
